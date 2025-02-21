@@ -1,0 +1,9 @@
+data
+.venv
+__pycache__
+logs
+tuner
+*.pkl
+*.h5
+*.keras
+best_model.h5
